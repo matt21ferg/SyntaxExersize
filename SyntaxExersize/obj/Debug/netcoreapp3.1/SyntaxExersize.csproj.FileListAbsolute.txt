@@ -1,0 +1,14 @@
+C:\Users\matt2\repos\SyntaxExersize\SyntaxExersize\bin\Debug\netcoreapp3.1\SyntaxExersize.exe
+C:\Users\matt2\repos\SyntaxExersize\SyntaxExersize\bin\Debug\netcoreapp3.1\SyntaxExersize.deps.json
+C:\Users\matt2\repos\SyntaxExersize\SyntaxExersize\bin\Debug\netcoreapp3.1\SyntaxExersize.runtimeconfig.json
+C:\Users\matt2\repos\SyntaxExersize\SyntaxExersize\bin\Debug\netcoreapp3.1\SyntaxExersize.runtimeconfig.dev.json
+C:\Users\matt2\repos\SyntaxExersize\SyntaxExersize\bin\Debug\netcoreapp3.1\SyntaxExersize.dll
+C:\Users\matt2\repos\SyntaxExersize\SyntaxExersize\bin\Debug\netcoreapp3.1\SyntaxExersize.pdb
+C:\Users\matt2\repos\SyntaxExersize\SyntaxExersize\obj\Debug\netcoreapp3.1\SyntaxExersize.csproj.AssemblyReference.cache
+C:\Users\matt2\repos\SyntaxExersize\SyntaxExersize\obj\Debug\netcoreapp3.1\SyntaxExersize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matt2\repos\SyntaxExersize\SyntaxExersize\obj\Debug\netcoreapp3.1\SyntaxExersize.AssemblyInfoInputs.cache
+C:\Users\matt2\repos\SyntaxExersize\SyntaxExersize\obj\Debug\netcoreapp3.1\SyntaxExersize.AssemblyInfo.cs
+C:\Users\matt2\repos\SyntaxExersize\SyntaxExersize\obj\Debug\netcoreapp3.1\SyntaxExersize.csproj.CoreCompileInputs.cache
+C:\Users\matt2\repos\SyntaxExersize\SyntaxExersize\obj\Debug\netcoreapp3.1\SyntaxExersize.dll
+C:\Users\matt2\repos\SyntaxExersize\SyntaxExersize\obj\Debug\netcoreapp3.1\SyntaxExersize.pdb
+C:\Users\matt2\repos\SyntaxExersize\SyntaxExersize\obj\Debug\netcoreapp3.1\SyntaxExersize.genruntimeconfig.cache
